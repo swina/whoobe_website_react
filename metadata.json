@@ -1,0 +1,6 @@
+{
+  "name": "Whoobe — Unified Open-Source PIM, DAM & Headless CMS",
+  "description": "The unified open-source platform combining PIM, DAM, Headless CMS, and a Full-CRUD API Gateway into a single TypeScript stack powered by PostgreSQL JSONB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
